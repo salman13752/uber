@@ -1,0 +1,240 @@
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    
+}
+.left-nav
+{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    
+    
+}
+.left-nav img{
+    width: 60px;
+}
+.right-nav{
+    display: flex;
+    gap: 30px;
+}
+.main{
+    background: black;
+}
+.left-nav a{
+    text-decoration: none;
+    color: #fff;
+}
+.right-nav a{
+    text-decoration: none;
+    color: #fff;
+}
+.right-nav button{
+    border-radius: 30px;
+    width: 70px;
+    height: 40px;
+    font-weight: bold;
+}
+.buttn-main{
+    margin-top: -10px;
+}
+.bt1{
+    background-color: black;
+    border: none;
+    color: #fff;
+}
+
+    
+
+.left-body h1{
+    color: #FFF;
+
+    
+}
+.left-body{
+    width: 50%;
+    background: black;
+    float: left;
+    height: 700px;
+    text-align: center;
+    font-size: 25px;
+}
+.right-body{
+    width: 50%;
+    background: rgb(0, 0, 0);
+    float: left;
+    height: 700px;
+    
+    
+}
+.right-body img{
+    width: 500px;
+    padding-top: 40px;
+    padding-left: 30px;
+
+}
+.left-body h1{
+    font-family: Arial;
+    
+}
+.left-body p{
+    font-size: 20px;
+    padding-right:220px;
+}
+.left-body input{
+    font-size: 30px;
+    border-radius: 10px;
+    border:none;
+    display:flex;
+    height: 50px;
+    margin-left:70px;
+}
+::placeholder {
+    color: rgb(151, 148, 148);
+    opacity: 1;
+    font-size: 20px;
+  }
+  .left-body button{
+    font-size: 18px;
+    border-radius: 8px;
+    background: #FFF;
+    font-family: Arial;
+    width: 120px;
+    height: 50px;
+    color: rgb(29, 30, 31);
+    margin-right:370px;
+  }
+  .left1{
+    width:50%;
+    background:#fff;
+    float: left;
+    height:700px;
+  }
+  .right1{
+    width: 50%;
+    background:#fff;
+    float: left;
+    height:700px;
+  }
+  .text01 h1{
+    font-family: Arial;
+    font-size: 60px;
+    text-align: center;
+  }
+  .text01 p{
+    padding-left: 120px;
+    padding-top: 60px;
+    font-size: 20px;
+  }
+  .text01 button{
+    color: #fff;
+    background: black;
+    border: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: 115px;
+  }
+  .text02 h1{
+    font-family: Arial;
+    font-size: 60px;
+    padding-left: 100px;
+  }
+  .text02 p{
+    padding-left: 100px;
+    padding-top: 60px;
+    font-size: 18px;
+  }
+  .text02 button{
+    color: #fff;
+    background: black;
+    border: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: 95px;
+  }
+  .text03 button{
+    color: #fff;
+    background: black;
+    border: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: 95px;
+  }
+  .text03 h1{
+    font-family: Arial;
+    font-size: 40px;
+    padding-left:85px;
+    padding-top: 120px;
+  }
+  .text03 p{
+    padding-left: 100px;
+    padding-top: 60px;
+    font-size: 18px;
+  }
+  .bottam{
+    width: 100%;
+    height: 300px;
+    background: rgb(239, 237, 237);
+    float: left;
+  }
+  .bottam img{
+    width: 550px;
+    padding-left: 50px;
+  }
+  .bottam h1{
+    font-family: Arial;
+    padding-left: 50px;
+  }
+  .final-div{
+    width: 100%;
+    height: 600px;
+    background: black;
+    float: left;
+  }
+  table{
+    font-family: arial;
+   color: #FFF;
+    width: 90%;
+    text-align:center;
+    padding-left: 90px;
+    line-height: 2;
+    
+}
+td, th {
+ 
+    text-align: left;
+    padding: 8px;
+    
+  }
+  th{
+    font-size: 18px;
+    font-weight: lighter;
+    
+  }
+  td{
+    color: #c6c5c5;
+  }
+  .f-logo{
+    float: left;
+    
+  }
+  .icon{
+    width: 100%;
+    height: 300px;
+    background: rgb(1, 1, 1);
+    float: left;
+    padding-left: 60px;
+  }
+  .icon i{
+    font-size: 20px;
+    padding: 40px;
+    
+  }
